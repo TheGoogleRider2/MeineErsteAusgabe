@@ -1,2 +1,2 @@
 # MeineErsteAusgabe (Beta)
-A "Hello, World" program written (with things with new commands) in school 
+A "Hello, World" program written (with new commands) in school 
