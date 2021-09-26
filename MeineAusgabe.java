@@ -15,5 +15,6 @@ public class MeineAusgabe{
     }
 }
 
-//Yamete kudasai
 
+//Yamete kudasai
+//By TheGoogleRider
