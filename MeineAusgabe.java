@@ -1,5 +1,5 @@
 /**
- * @name: (MeinErsteAusgabe_main)
+ * @name: (MeinErsteAusgabe)
  * @description:
  * It's a Hello, world program with some new commands we learned in class
  * 
@@ -23,7 +23,7 @@ public class MeineAusgabe
             System.out.println();
 
             double number; 
-            number = 17.25;
+            number = 17.4225;
             System.out.println(number * 4);
             System.out.println();
 
