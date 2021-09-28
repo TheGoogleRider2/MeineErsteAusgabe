@@ -24,7 +24,7 @@ public class MeineAusgabe
 
             double number; 
             number = 17.4225;
-            System.out.println(number * 4);
+            System.out.println(number);
             System.out.println();
 
             char letter;

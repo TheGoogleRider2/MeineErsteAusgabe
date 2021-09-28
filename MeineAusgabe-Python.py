@@ -6,14 +6,14 @@
 # Ported to Python because i just wanna try to.  
 #
 # @author (TheGoogleRider)
-# @version (1.0_basic-python)
+# @version (1.0-python)
 # @date (26/09/2021)
 
 print("Hi Senpai")
 print()
 
 number = 17.4225
-print(number * 4)
+print(number)
 print()
 
 letter = "a"
