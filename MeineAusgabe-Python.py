@@ -14,23 +14,17 @@ print()
 
 number = 17.4225
 print(number)
-print()
 
 letter = "a"
 print(letter)
-print()
 
 text = "Oppai"
 print(text)
-print()
 
 zahl = 69
 print(zahl)
-print()
 
 PP = "By TheGoogleRider"
 print(PP)
-print()
 
 #Yamete kudasai!!
-#By TheGoogleRider
