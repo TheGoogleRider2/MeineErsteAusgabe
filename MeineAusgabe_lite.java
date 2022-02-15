@@ -8,8 +8,8 @@
  * 
  * 
  * @author (TheGoogleRider)
- * @version (1.0_lite)
- * @date (29/09/2021)
+ * @version (2.0_lite)
+ * @date (16/02/2022)
  */
 
 
@@ -24,5 +24,5 @@ public class MeineAusgabe_lite
     }
 }
 
-//Yamete kudasai!!
+
 //By TheGoogleRider

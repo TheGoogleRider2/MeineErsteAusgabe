@@ -6,8 +6,8 @@
 # Ported to Python because i just wanna try to.  
 #
 # @author (TheGoogleRider)
-# @version (1.0-python)
-# @date (26/09/2021)
+# @version (2.0-python)
+# @date (16/02/2022)
 
 print("Hi Senpai")
 print()
@@ -21,9 +21,9 @@ print(letter)
 text = "Oppai"
 print(text)
 
-zahl = 69
+zahl = 8
 print(zahl)
-
+print()
 PP = "By TheGoogleRider"
 print(PP)
 

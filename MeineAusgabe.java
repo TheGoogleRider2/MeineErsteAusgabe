@@ -8,11 +8,9 @@
  * 
  * 
  * @author (TheGoogleRider)
- * @version (2.0)
- * @date (26/09/2021)
+ * @version (3.0)
+ * @date (16/02/2022)
  */
-
-
 
 public class MeineAusgabe
 {
@@ -22,34 +20,26 @@ public class MeineAusgabe
             System.out.println("Hi Senpai");
             System.out.println();
 
-            double number; 
-            number = 17.4225;
+            double number = 17.4225;
             System.out.println(number);
-            System.out.println();
 
-            char letter;
-            letter = 'a';
+            char letter = 'a';
             System.out.println(letter);
-            System.out.println();
             
-            String text;
-            text = "Oppai";
+            String text = "Oppai";
             System.out.println(text);
-            System.out.println();
 
-            int zahl;
-            zahl = 69;
-            System.out.println(zahl);
+            int zahl = 69;
             System.out.println(zahl);
             System.out.println();
             
-            String PP;
-            PP = "Made for school by TheGoogleRider";
+            String PP = "Made for school by TheGoogleRider";
             System.out.println(PP);
             System.out.println();
         }
     }
 }
 
-//Yamete kudasai!!
+
+
 //By TheGoogleRider

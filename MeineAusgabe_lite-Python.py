@@ -6,10 +6,10 @@
 # Ported to Python because i just wanna try to.  
 #
 # @author (TheGoogleRider)
-# @version (1.0_lite-python)
-# @date (26/09/2021)
+# @version (2.0_lite-python)
+# @date (16/02/2022)
 
 print("Hi Senpai")
 
-#Yamete kudasai!!
+
 #By TheGoogleRider
