@@ -9,7 +9,7 @@
  * date: 16/02/2022
  */
 
- void main(){
-    print("Hi Senpai");
+void main() {
+  print("Hi Senpai");
 }
 //By TheGoogleRider
