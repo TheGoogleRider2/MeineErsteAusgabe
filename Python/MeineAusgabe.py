@@ -27,4 +27,4 @@ print()
 PP = "By TheGoogleRider"
 print(PP)
 
-#Yamete kudasai!!
+#By TheGoogleRider
