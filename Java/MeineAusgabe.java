@@ -1,15 +1,15 @@
 /**
- * @name: (MeinErsteAusgabe)
- * @description:
+ * name: MeinErsteAusgabe
+ * description:
  * It's a Hello, world program with some new commands we learned in class
  * 
  * I guess this is the final version.
  * We just had to write some stuff down so yeah.
  * 
  * 
- * @author (TheGoogleRider)
- * @version (3.0)
- * @date (16/02/2022)
+ * author: @TheGoogleRider
+ * version: (3.0)
+ * date: 16/02/2022
  */
 
 public class MeineAusgabe

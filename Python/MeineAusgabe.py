@@ -1,13 +1,13 @@
-# @name: (MeineErsteAusgabe-python)
-# @description:
+# name: MeineErsteAusgabe-python
+# description:
 # It's a Hello, world program.
 # 
 # I guess this is the Python version. :)
 # Ported to Python because i just wanna try to.  
 #
-# @author (TheGoogleRider)
-# @version (2.0-python)
-# @date (16/02/2022)
+# author: @TheGoogleRider
+# version: (2.0
+# date: 16/02/2022
 
 print("Hi Senpai")
 print()
