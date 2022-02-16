@@ -12,19 +12,14 @@
 print("Hi Senpai")
 print()
 
-number = 17.4225
-print(number)
+number = 17.4225; print(number)
 
-letter = "a"
-print(letter)
+letter = "a"; print(letter)
 
-text = "Oppai"
-print(text)
+text = "Oppai"; print(text)
 
-zahl = 8
-print(zahl)
+zahl = 8; print(zahl)
 print()
-PP = "By TheGoogleRider"
-print(PP)
+PP = "By TheGoogleRider"; print(PP)
 
-#Yamete kudasai!!
+#By TheGoogleRider
