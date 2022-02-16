@@ -8,8 +8,10 @@
  * date: 16/02/2022
  */
 
+import "dart:io";
+
 void main() {
-  print('Hi Senpai');
+  stdout.write("Hi Senpai");
 
   var a = 17.4225;
   print(a);
