@@ -1,5 +1,5 @@
 /**
- * name: (MeinErsteAusgabe_lite)
+ * name: MeinErsteAusgabe_lite
  * description:
  * It's a Hello, world program with some new commands we learned in class
  * 

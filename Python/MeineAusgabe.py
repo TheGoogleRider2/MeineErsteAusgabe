@@ -6,7 +6,7 @@
 # Ported to Python because i just wanna try to.  
 #
 # author: @TheGoogleRider
-# version: (2.0
+# version: 2.0
 # date: 16/02/2022
 
 print("Hi Senpai")

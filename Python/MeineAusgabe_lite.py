@@ -1,4 +1,4 @@
-# name: (MeineErsteAusgabe_lite-python)
+# name: MeineErsteAusgabe_lite-python
 # description:
 # It's a Hello, world program.
 # 
