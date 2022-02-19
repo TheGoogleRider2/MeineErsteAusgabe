@@ -16,16 +16,16 @@ int main()
     std::cout << "Hello world! \n\n";
     
     double number = 17.4225;
-    std:: cout << number; "\n\n";
+    std:: cout << number <<'\n';
 
     char letter = 'a';
-    std:: cout << letter; "\n\n";
+    std:: cout << letter <<'\n';
 
-    std:: cout << "Oppai \n\n";
+    std:: cout << "Oppai \n";
 
     int zahl = 69;
-    std:: cout << zahl; "\n\n";
-
+    std:: cout << zahl <<'\n';
+    std:: cout << '\n';
     std:: cout << "Made for school by TheGoogleRider";
 
 
