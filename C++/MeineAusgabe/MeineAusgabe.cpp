@@ -6,7 +6,7 @@
  * author: @TheGoogleRider
  * version: (1.0)
  * date: 19/02/2022
- */
+**/
 
 #include <iostream>
 
@@ -24,8 +24,7 @@ int main()
     std:: cout << "Oppai \n";
 
     int zahl = 69;
-    std:: cout << zahl <<'\n';
-    std:: cout << '\n';
+    std:: cout << zahl <<'\n' << '\n';
     std:: cout << "Made for school by TheGoogleRider \n";
 
 

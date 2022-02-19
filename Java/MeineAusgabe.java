@@ -10,7 +10,7 @@
  * author: @TheGoogleRider
  * version: (3.0)
  * date: 16/02/2022
- */
+**/
 
 public class MeineAusgabe
 {
