@@ -13,7 +13,7 @@
 int main()
 {
     //This is to print something. (The \n is for new lines)
-    std::cout << "Hello world! \n\n";
+    std::cout << "Hi Senpai! \n\n";
     
     double number = 17.4225;
     std:: cout << number <<'\n';
