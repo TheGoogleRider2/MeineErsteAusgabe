@@ -27,8 +27,6 @@ int main()
     std:: cout << zahl <<'\n' << '\n';
     std:: cout << "Made for school by TheGoogleRider \n";
 
-
     return 0;
 }
-
 //By TheGoogleRider

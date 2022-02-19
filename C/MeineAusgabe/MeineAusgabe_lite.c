@@ -14,3 +14,5 @@ int main() {
    printf("Hi Senpai!");
    return 0;
 }
+
+//By TheGoogleRider
