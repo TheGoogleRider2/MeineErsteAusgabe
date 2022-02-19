@@ -1,7 +1,7 @@
 /**
  * name: MeinErsteAusgabe
  * description:
- * Trying out C (Lite-Edition).
+ * Trying out C.
  * 
  * author: @TheGoogleRider
  * version: (1.0)
